@@ -1,6 +1,6 @@
 # LLMs and other DL models with NIMs
 
-This is a first look into Nvidia's NIMs, and how "easy" it becomes to run big deep learning models, including Reasoning: LLMs and the newly released Llama 3.1, Vision, Speech, among others. 
+This is a first look into Nvidia's NIMs, and how "easy" it becomes to run big deep learning models, including text-to-text: LLMs and the newly released Llama 3.1, Vision, Speech, among others. 
 
 <br>
 
